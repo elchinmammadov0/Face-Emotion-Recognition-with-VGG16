@@ -1,9 +1,5 @@
 # Face-Emotion-Recognition-with-VGG16
 
-Here’s your **README** without the CK+ references:  
-
----
-
 # **Real-Time Facial Emotion Recognition**  
 
 This project is a **real-time facial emotion recognition system** using deep learning. It is trained on the **FER2013 dataset** and fine-tuned with **AffectNet** to improve performance on underrepresented emotions. The model is integrated with **OpenCV** for real-time detection through a webcam.  
@@ -57,6 +53,3 @@ This project is a **real-time facial emotion recognition system** using deep lea
 ## **License**  
 This project is licensed under the MIT License.  
 
----
-
-Let me know if you want further modifications!
